@@ -1,0 +1,15 @@
+//isValid valida algo 123 //
+if isValid {{
+    var = 'Es valido'
+    returning var 
+}}
+
+/* suma guarda una suma*
+suma = 123 +123 
+
+multiplicacion = 123.123 *123.123 
+
+dividicion = 123e12 / 123.456e123 
+
+// Un error 300 ocurrira a continuacion//
+123.abc
